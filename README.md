@@ -1,2 +1,2 @@
-# defi_on_chain_research
+# defi-on-chain-research
 I hate the non Chinese most damnably
